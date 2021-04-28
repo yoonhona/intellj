@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="gin-bin" type="PLAIN_TEXT" />
+      <mapping ext="secret" type="PLAIN_TEXT" />
+      <mapping ext="wasm" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="XML" />
+      <mapping ext="wsdd" type="XML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping pattern="pre-commit" type="Bash" />
+    </extensionMap>
+  </component>
+</application>
