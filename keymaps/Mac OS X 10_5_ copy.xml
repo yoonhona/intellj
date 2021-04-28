@@ -1,0 +1,27 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control meta button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control meta button143" />
+  </action>
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta equals" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta minus" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta s" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta s" second-keystroke="v" />
+  </action>
+</keymap>
